@@ -1,0 +1,8 @@
+AshDeskApple
+Copyright 2026 mrQzs
+
+This repository (the AshDesk iPad / iOS client app) is licensed under the Apache License,
+Version 2.0 (see LICENSE).
+
+The AshDesk remote desktop engine that this app links against is proprietary. It is
+distributed in binary form only and is NOT covered by the Apache License.
